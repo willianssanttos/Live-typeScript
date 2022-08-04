@@ -4,4 +4,4 @@ Com o objetivo de mostrar exemplos e desafios de typescript, que vão dar uma no
     
 https://github.com/willianssanttos/PlayMovies.git
 
-Neste repositorio, no link acima! Contem o sistema web app responsivo consumindo API do The Movie DB, permitindo buscar e ver detalhes de filmes de seu catálogo!
+Neste repositorio, no link acima! Contem o sistema web app responsivo consumindo API do The Movie DB, permitindo buscar e ver detalhes de filmes de seu catálogo. Desenvolvido em typescript e outras frameworks! 
